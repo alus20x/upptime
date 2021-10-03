@@ -3,7 +3,7 @@ owner: lill74 # Your GitHub organization or username, where this repository live
 repo: upptime # The name of this repository
 
 sites:
-  - name: [WEB] sso.kiwi
+  - name: sso.kiwi
     url: https://sso.kiwi
 
 status-website:
