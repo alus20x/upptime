@@ -6,7 +6,9 @@ sites:
   - name: [WEB] sso.kiwi
     url: https://sso.kiwi
   - name: [Pool] sso.kiwi
+    check: "tcp-ping"
     url: vpn.sso.kiwi
+    port: 80
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
