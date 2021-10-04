@@ -1,7 +1,7 @@
 url: https://sso.kiwi
-status: up
-code: 200
-responseTime: 685
-lastUpdated: 2021-10-03T23:15:32.887Z
+status: down
+code: 523
+responseTime: 3325
+lastUpdated: 2021-10-04T22:42:03.610Z
 startTime: Sun Oct 03 2021 14:15:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
