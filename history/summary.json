@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/sso.kiwi",
     "slug": "sso-kiwi",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1510,
-    "timeDay": 2005,
-    "timeWeek": 1510,
-    "timeMonth": 1510,
-    "timeYear": 1510,
+    "uptime": "93.68%",
+    "uptimeDay": "90.88%",
+    "uptimeWeek": "93.68%",
+    "uptimeMonth": "93.68%",
+    "uptimeYear": "93.68%",
+    "time": 1951,
+    "timeDay": 3299,
+    "timeWeek": 1951,
+    "timeMonth": 1951,
+    "timeYear": 1951,
     "dailyMinutesDown": {
-      "2021-10-04": 0
+      "2021-10-05": 53,
+      "2021-10-04": 78
     }
   }
 ]
